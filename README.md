@@ -19,7 +19,7 @@ Over the last 20 years, I've worked in various aspects of digital media with or 
 
 My Github is primarily a place where I have various retrogames written for the BBC Microcomputer way back in the 1990s. However, I remastered one of these games in 2021. I hope to remaster my others, and maybe create new ones in the future. The tooling available on modern computers make retrocoding much more of a joy than it used to be.
 
-I'm fairly active on [Twitter](https://www.twitter.com/sassquad), but have made the [odd blogpost](https://sascott.blogspot.com/) on retrogaming, accessibility or data journalism.
+I'm fairly active on [BlueSky](https://bsky.app/profile/sassquad.bsky.social), but have made the [odd blogpost](https://sascott.blogspot.com/) on retrogaming, accessibility or data journalism.
 
 For more information, please visit my [website](https://www.sassquad.net/).
 <!--
